@@ -23,6 +23,8 @@ Currently exploring:
 
 AI Copilot for Understanding Enterprise Systems and Legacy Code.
 
+🚀 **Live Prototype:**  https://soumya-ai-system-copilot.streamlit.app/
+
 SystemLens helps engineers, TPMs, and product managers quickly understand complex system artifacts.
 
 Features:
